@@ -1,0 +1,6 @@
+if (URL.getString() == null){
+  servicio = 0;
+}
+else{
+  servicio = 1;
+}
