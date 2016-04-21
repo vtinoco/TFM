@@ -12,8 +12,8 @@
 ##     You should have received a copy of the GNU General Public License        ## 
 ##     along with this program.  If not, see <http://www.gnu.org/licenses/>.    ## 
 ##                                                                              ##
-##    Copyleft 2016 Victor Tinoco Horrillo                                      ##
-##		correo: victor.tinoco.86@gmail.com  												              ##
+##     Copyleft 2016 Victor Tinoco Horrillo                                     ##
+##     correo: victor.tinoco.86@gmail.com        				##
 ##                                                                              ##
 ##################################################################################
 
